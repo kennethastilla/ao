@@ -7,8 +7,8 @@ $ pip2 install requests\  ito dapat may s ang Request
 $ pip2 install mechanize\
 $ git clone https://github.com/kennethastilla/ao \
 $ termux-setup-storage (Tapos click allow)\
-$ cd crypton\
-$ python2 expose.py
+$ cd ao\
+$ python2 search.py
 
 Then type *'help'*\
 *'login'* tapos *'start'*
